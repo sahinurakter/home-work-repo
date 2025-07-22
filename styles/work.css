@@ -47,9 +47,9 @@ div ul li a{
     padding: 20px 0px;}
     .k{
         height: 400px;
-        width: 300px;
-        border: 1px solid brown;
+        width: 300px;  
         padding: 10px;
+        box-shadow: 0 40px 30px 0  rgba(0, 0, 0, 0.06);
     }
     .j{
         display: grid;
